@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Evento 1",
+    "description": "Descripción del evento 1",
+    "date": "2023-01-01",
+    "state": "pending"
+  },
+  {
+    "id": "1751832638458jn5djky6g",
+    "title": "Evento 2",
+    "description": "Descripción del evento 2",
+    "date": "2026-01-01",
+    "state": "pending"
+  },
+  {
+    "id": "1751838307859wm9vz4asb",
+    "title": "Evento 2",
+    "description": "Descripción del evento 2",
+    "date": "2026-01-01",
+    "state": "pending"
+  }
+]
